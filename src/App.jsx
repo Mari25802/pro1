@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { HashRouter as Router } from 'react-router-dom'; // Import HashRouter
 import reactLogo from './assets/react.svg';
-import viteLogo from './vite.svg';
+import viteLogo from 'vite.svg';
 import './App.css';
 
 function App() {
